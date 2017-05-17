@@ -1,0 +1,42 @@
+div {
+	font-family: Arial, sans-serif;
+	font-size:16px;
+	line-height:150%;
+	width: 650px;
+	margin:50px auto;
+	padding:50px 20px;
+}
+div .header {
+	font-family: serif, Helvetica;
+}
+ h1 {
+	 	text-transform:uppercase;
+ }
+.text__red {
+	color:red;
+	font-style: italic;
+}
+.autor--link {
+	color: #0b0080;
+
+}
+.text__yellow{
+	background:yellow;
+	width:20px;
+}
+.name{
+	font-weight:bold;
+}
+.text__big{
+	font-size:22px;
+	color: #0b0080;
+}
+.vertical {
+	color:black;
+	font-size:22px;
+	font-weight: 300;
+
+}
+.text__bold{
+	font-weight:bold;
+}
